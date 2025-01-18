@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sundayz</h1>
 <h3 align="center">A passionate Ethical Hacker and Python Developer from France !</h3>
 
----
 
 ## About Me
 I have always been passionate about computer science and began my journey in the financial markets, creating trading tools and algorithms. This led me to discover my love for development, particularly in **Python**, and later, my deep interest in **cybersecurity**.
