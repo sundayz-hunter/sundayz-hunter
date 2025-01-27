@@ -91,9 +91,7 @@ If you're a security professional or just curious about reconnaissance, feel fre
 ## 🌍 Socials
 
 <p align="left">  ⠀⠀⠀
-  <a href="https://twitter.com/@_sundayz" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sundayz__" height="30" width="40" />
-  </a> ⠀⠀
+  <a href="https://twitter.com/@_sundayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sundayz__" height="30" width="40" /></a> ⠀⠀
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: sundayz_hunter" height="45" width="45" />
   <span>sundayz_hunter</span>
 </p>
