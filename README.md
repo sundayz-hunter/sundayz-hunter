@@ -83,7 +83,10 @@ If you're a security professional or just curious about reconnaissance, feel fre
 
 * #### [QR Code Manager](https://github.com/sundayz-hunter/QR_Code_Manager)
     - QR Code Manager is a project built using Django that allows users to create, download, and delete QR codes efficiently.
-  
+
+* #### [Chat AI](https://github.com/sundayz-hunter/Chat_AI)
+    - Chat Ai is a webapp for chatting with LLM using Ollama, built with Django.
+
 #### 🚀 **New projects are on the way, stay connected !**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
